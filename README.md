@@ -5,19 +5,11 @@ Este proyecto presenta un análisis integral del rendimiento de futbolistas en l
 ---
 
 ## 📌 Tabla de Contenidos
-- [Vista Previa del Dashboard](#-vista-previa-del-dashboard)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Limpieza y Reglas de Negocio](#-limpieza-y-reglas-de-negocio)
 - [Validación SQL](#-validación-sql)
 - [Medidas DAX Destacadas](#-medidas-dax-destacadas)
-- [Cómo Usar este Repositorio](#-cómo-usar-este-repositorio)
-
----
-
-## 📸 Vista Previa del Dashboard
-
-![Dashboard Preview](path/to/your/dashboard_screenshot.png)
 
 ---
 
