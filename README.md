@@ -5,11 +5,11 @@ Este proyecto presenta un análisis integral del rendimiento de futbolistas en l
 ---
 
 ## 📌 Tabla de Contenidos
-- [Tecnologías Utilizadas]
-- [Estructura del Proyecto]
-- [Limpieza y Reglas de Negocio]
-- [Validación SQL]
-- [Medidas DAX Destacadas]
+- Tecnologías Utilizadas
+- Estructura del Proyecto
+- Limpieza y Reglas de Negocio
+- Validación SQL
+- Medidas DAX Destacadas
 
 ---
 
